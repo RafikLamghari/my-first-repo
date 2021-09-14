@@ -1,2 +1,2 @@
-[![Eafik Foto](img/Rafik.png)](https://zuyd.nl)
+[![Eafik Foto](img/unknown.png)](https://zuyd.nl)
 # my-first-repo
